@@ -15,7 +15,7 @@ This project explores the relationship between climate change and its impact on 
 1. Clone the repository:
 
    
-       git clone https://github.com/yourusername/climate-change-agriculture-analysis.git
+       git clone https://github.com/praveenKP-dev/climate-change-agriculture-analysis.git
 
 
 2. Navigate to the project directory:
@@ -64,8 +64,4 @@ The dataset contains multiple variables related to agriculture and climate, such
 
 Dataset Link: https://www.kaggle.com/datasets/waqi786/climate-change-impact-on-agriculture
 
-Uploaded Date: 9/6/2024
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+Uploaded Date: 05/12/2025
